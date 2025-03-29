@@ -31,7 +31,7 @@ To install the required libraries, you can use pip:
 ## How to Run
 1. Clone the repository:
     
-    git clone https://github.com/yourusername/news-aggregator.git
+    git clone https://github.com/Thilak21/News-Aggregator.git
    
     cd news-aggregator
     
